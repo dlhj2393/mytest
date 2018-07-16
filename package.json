@@ -1,0 +1,16 @@
+{
+  "name": "mytest-cc-01",
+  "version": "1.0.0",
+  "description": "mytest ---",
+  "repository": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlhj2393/mytest.git"
+  },
+  "bin": {
+    "mytest": "bin/mytest.js"
+  },
+  "author": "dlhj2393 <13647657320@163.com> ",
+  "license": "MIT"
+}
